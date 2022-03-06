@@ -1,6 +1,6 @@
 # Grip: A native gRPC client for macOS
 
-[![Grip screenshot](https://gripgrpc.dev/poster-v3.jpg)](https://gripgrpc.dev/)
+[![Grip screenshot](https://gripgrpc.dev/screenshot-v2.jpg)](https://gripgrpc.dev/)
 
 To report a bug, please [open a new issue](https://github.com/gripgrpc/discussions/issues/new).
 
